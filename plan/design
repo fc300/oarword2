@@ -1,0 +1,23 @@
+document:
+  insert text
+    insert paragraph
+  insert image
+  insert table
+  
+  delete text
+  delete image
+  delete table
+  
+  set text style
+  remove text style
+  
+  set image width
+  set image height
+  
+  set table width
+  set table column width
+  set table row height
+  
+  add table column
+  add table row
+  
