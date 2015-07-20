@@ -21,3 +21,12 @@ document:
   add table column
   add table row
   
+document data components: text, paragraph, image, table
+document operations: insert, delete, style change, select
+document interface: render, import, export
+
+text:
+  insert:
+  delete:
+  style chagne:
+  select
